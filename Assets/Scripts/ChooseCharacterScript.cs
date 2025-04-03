@@ -8,7 +8,7 @@ public class ChooseCharacterScript : MonoBehaviour
     int characterIndex;
     public GameObject inputField;
     string characterName;
-    public int playerCount = 2;
+    public int playerCount = 7;
     public SceneChangeScript sceneChangeScript;
 
     void Awake()
