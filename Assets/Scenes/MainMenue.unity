@@ -8933,7 +8933,7 @@ MonoBehaviour:
   - {fileID: 735935229}
   - {fileID: 2035593560}
   inputField: {fileID: 324150631}
-  playerCount: 2
+  playerCount: 4
   sceneChangeScript: {fileID: 1570516158}
 --- !u!114 &1570516158
 MonoBehaviour:
