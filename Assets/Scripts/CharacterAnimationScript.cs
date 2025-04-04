@@ -14,7 +14,7 @@ public class CharacterAnimationScript : MonoBehaviour
     public KeyCode hurtKey = KeyCode.H; // Key to simulate taking damage
 
     // --- Animator Parameter Hashes (Optimization, Optional) ---
-    private readonly int speedHash = Animator.StringToHash("Speed");
+    private readonly int speedHash = Animator.StringToHash("Walk");
     private readonly int hurtHash = Animator.StringToHash("Hurt");
 
 
