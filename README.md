@@ -6,11 +6,11 @@ This project was created in Unity to learn and demonstrate various engine featur
 
 ## Screenshots / GIFs
 
-*(Add screenshots or GIFs of your game here!)*
 
-* ![Gameplay Screenshot 1](path/to/your/screenshot1.png)
-* ![Dice Roll GIF](path/to/your/diceroll.gif)
-* *(You can add links or embed images depending on where this README is hosted, like GitHub)*
+* ![Gameplay Screenshot 1](Img/CreateScreen.png)
+* ![Gameplay Screenshot 2](Img/GameplayScreen.png)
+* ![Gameplay Screenshot 2](Img/MainScreen.png)
+
 
 ## Features
 
